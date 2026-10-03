@@ -1,0 +1,7 @@
+tensorflow>=2.15
+tensorboard
+numpy
+pandas
+streamlit
+pydeck
+requests
